@@ -1,0 +1,7 @@
+.hero-container{
+    height: 30rem;
+    background-image: linear-gradient(to right, rgb(255, 255, 255) , rgb(0, 0, 0));
+}
+.hero-text{
+    padding: 2rem;
+}

@@ -18,6 +18,10 @@
     align-items: flex-start;
     margin-top: 1.4rem;
     
+    
+}
+.logo h2{
+    margin-left: .5rem;
 }
 
 .main-links{
@@ -49,7 +53,7 @@ grid-column:3/4;
     border-radius: .2rem;
 }
 .button:hover{
-    border-radius: 2rem;
+    border-radius: 2rem 1rem;
 }
 .main-button{
     margin-top: -0.2rem;
