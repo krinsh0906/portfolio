@@ -1,0 +1,47 @@
+.skills-text>h3{
+  padding: 4rem;
+  color: gray;
+}
+.skills-text span{
+  width: 70rem;
+  height: .1rem;
+  position: absolute;
+  background-color:gray;
+  margin: -4rem 0 0 11rem;
+}
+.skills-headding>p{
+  font-weight: 700;
+  margin: -2.7rem 0 0 4rem;
+}
+.progressbar{
+
+width: 30rem ;  
+}
+.skills-progressbar{
+  margin: 3rem 0 0 7rem;
+}
+.skill-box{
+  float: right;
+}
+.skillbox-1{
+  border: 1px solid none;
+  height: 10rem;
+  width: 11rem;
+  margin: -26rem 28rem 0 0;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 8px 12px;
+  border-radius: .5rem;
+}
+.icon{
+  margin: 2rem 0 0 3.6rem;
+}
+.skillbox-1>p{
+  margin: 1.5rem 0 0 3.5rem;
+  font-weight: 700;
+}
+/* .skillbox-2{
+  border: 1px solid none;
+  height: 10rem;
+  width: 11rem;
+  margin: -10rem 0 0 17rem;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 8px 12px;
+} */

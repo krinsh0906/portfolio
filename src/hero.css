@@ -3,5 +3,42 @@
     background-image: linear-gradient(to right, rgb(255, 255, 255) , rgb(0, 0, 0));
 }
 .hero-text{
-    padding: 2rem;
+    padding: 4rem;
+}
+.hero-text p{
+    margin-top: 1.5rem;
+}
+.mainhero-button{
+    margin-left: 4rem;
+    margin-top: -2rem;
+}
+.hero-button{
+    height: 2rem;
+    width: 6rem;
+    color: white;
+    background: #000;
+    border: none;
+    border-radius: .2rem;
+    
+}
+.hero-button:hover{
+    border-radius: 2rem 1rem;
+}
+.space{
+    margin-left: 1rem;
+}
+.icons{
+    margin:1rem 0 0 0;
+    font-size: 1.5rem;
+
+
+}
+.icons>ul{
+    display: flex;
+    list-style: none;
+    margin-left: 2rem;
+    
+}
+.icons li a{
+    color: #000;
 }
